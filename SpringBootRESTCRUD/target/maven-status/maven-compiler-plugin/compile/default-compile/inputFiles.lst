@@ -1,0 +1,6 @@
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootRESTCRUD/src/main/java/com/saran/EasyNotesApplication.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootRESTCRUD/src/main/java/com/saran/exception/ResourceNotFoundException.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootRESTCRUD/src/main/java/com/saran/model/Note.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootRESTCRUD/src/main/java/com/saran/repository/NoteRepository.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootRESTCRUD/src/main/java/com/saran/controller/IndexController.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootRESTCRUD/src/main/java/com/saran/controller/NoteController.java
