@@ -1,0 +1,9 @@
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootCRUDApplicationExample/src/main/java/com/saran/springboot/model/User.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootCRUDApplicationExample/src/main/java/com/saran/springboot/service/UserServiceImpl.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootCRUDApplicationExample/src/main/java/com/saran/springboot/controller/RestApiController.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootCRUDApplicationExample/src/main/java/com/saran/springboot/service/UserService.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootCRUDApplicationExample/src/main/java/com/saran/springboot/controller/AppController.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootCRUDApplicationExample/src/main/java/com/saran/springboot/repositories/UserRepository.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootCRUDApplicationExample/src/main/java/com/saran/springboot/util/CustomErrorType.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootCRUDApplicationExample/src/main/java/com/saran/springboot/configuration/JpaConfiguration.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootCRUDApplicationExample/src/main/java/com/saran/springboot/SpringBootCRUDApp.java

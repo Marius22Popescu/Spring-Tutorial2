@@ -1,0 +1,5 @@
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootBatchCsvToDbEmp/src/main/java/com/saran/batch/model/Employee.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootBatchCsvToDbEmp/src/main/java/com/saran/batch/SpringBootBatchProjectApplication.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootBatchCsvToDbEmp/src/main/java/com/saran/batch/processor/EmpItemProcessor.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootBatchCsvToDbEmp/src/main/java/com/saran/batch/config/BatchConfiguration.java
+/Users/marius/Documents/Workspace/SpringSuite4/SpringBootBatchCsvToDbEmp/src/main/java/com/saran/batch/listener/JobCompletionNotificationListener.java

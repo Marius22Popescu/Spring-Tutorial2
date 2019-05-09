@@ -1,0 +1,15 @@
+spring:
+  profiles: prod
+datasource:
+  sampleapp:
+    url: jdbc:mysql://localhost:3306/batch44?serverTimezone=UTC&useSSL
+    username: root
+    password: M442333244m
+    driverClassName: com.mysql.cj.jdbc.Driver
+    defaultSchema:
+    maxPoolSize: 20
+    hibernate:
+      hbm2ddl.method: update
+      show_sql: true
+      format_sql: true
+      dialect: org.hibernate.dialect.MySQLDialect
