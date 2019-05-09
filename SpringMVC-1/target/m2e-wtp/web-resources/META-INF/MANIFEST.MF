@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: marius
+Build-Jdk: 12
+Implementation-Title: SpringMVC-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.Amar
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringMVC-1
+Created-By: Maven Integration for Eclipse
+
