@@ -1,0 +1,28 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+
+
+	<bean id="product" class="com.saran.service.ProductService">
+	<property name = "prdId" value ="1001"/>
+	<property name = "prdName" value ="Lown Mover"/>
+	</bean>
+
+	<bean id="hijackBeforeMethodBean" class ="com.saran.aop.B4MethodAdvice" />
+	<bean id="hijackAfterMethodBean" class ="com.saran.aop.AfterMethodAdvice" />
+	<bean id="hijackAroundMethodBean" class ="com.saran.aop.AroundMethodAdvice"/>
+	<bean id="hijackThrowsMethodBean" class ="com.saran.aop.ThrowsMethodAdvice"/>
+	
+	<bean id="productServiceProxy"
+	class="org.springframework.aop.framework.ProxyFactoryBean">
+	
+	<property name = "target" ref="product" />
+	<property name ="interceptorNames" >
+	<list>
+	<value>hijackBeforeMethodBean</value>
+	</list>
+</property>
+</bean>
+</beans>
